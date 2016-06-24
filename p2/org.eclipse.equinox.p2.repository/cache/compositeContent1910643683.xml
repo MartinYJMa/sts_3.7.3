@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='SpringSource Update Site for Eclipse 3.6'
+    type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1243822502444'/>
+  </properties>
+  <children size='7'>
+    <child location='http://dist.springsource.com/release/TOOLS/update/e3.6'/>
+    <child location='http://dist.springsource.com/milestone/TOOLS/cloud/e3.6'/>
+    <child location='http://download.eclipse.org/tools/ajdt/36/milestone'/>
+    <child location='http://download.eclipse.org/tools/mylyn/update/'/>
+    <child location='http://dist.springsource.org/release/GRECLIPSE/e3.6/'/>
+    <child location='http://update.atlassian.com/atlassian-eclipse-plugin/e3.6'/>
+    <child location='http://download.eclipse.org/releases/helios'/>
+  </children>
+</repository>
